@@ -1,5 +1,4 @@
 (fp_lib_table
-  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
-  (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/keyswitches.pretty)(options "")(descr ""))
-  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri "C:/Users/Yunjie Shi/Documents/Kicad Library/keyswitches.pretty")(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri "C:/Users/Yunjie Shi/Documents/Kicad Library/kicad-footprints/kbd.pretty")(options "")(descr ""))
 )

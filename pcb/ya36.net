@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:\\Users\\Yunjie Shi\\Desktop\\ya36\\ya36.sch")
-    (date "3/3/2021 9:20:14 PM")
+    (source "C:\\Users\\Yunjie Shi\\Documents\\GitHub\\ya36\\pcb\\ya36.sch")
+    (date "3/3/2021 11:57:34 PM")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -587,7 +587,7 @@
     (library (logical Device)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Device.lib"))
     (library (logical kbd)
-      (uri "C:\\Users\\Yunjie Shi\\Desktop\\ya36/kicad-symbols/kbd.lib")))
+      (uri "C:/Users/Yunjie Shi/Documents/Kicad Library/kicad-symbols/kbd.lib")))
   (nets
     (net (code 1) (name "Net-(D34-Pad2)")
       (node (ref D34) (pin 2))
