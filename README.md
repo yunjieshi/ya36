@@ -1,6 +1,6 @@
 # YA36 - Yet Another 36 Keys Split-Ergo Keyboard With Tight Key Spacing and Angled Columns
 
-![YA36](https://imgur.com/TAz73Tg)
+![YA36](https://i.imgur.com/TAz73Tg.jpg)
 
 YA36 is a 36 keys split-ergo low-profile keyboard designed to fit my own (strange shaped) hand. Although I don't think any other people can type on this specific design comfortably, there are some findings I think may worth sharing.
 
@@ -13,5 +13,5 @@ Usually the spacing between the keys on most of the keyboards is 19.05 mm (or 18
 ## Why the index column is higher than the middle column
 Because my index finger is longer than the ring finger, and it naturally located at a higher position than my middle finger when I curled my fingers and lay them on a flat surface. However, what I want to say is that sometimes we would stick to the 'common' design and didn't notice that our own hand may very different from other people's. When I just started to design my own keyboard, I always place the index column lower than the middle column, and only tried to figure out how much lower it should be, because all the column stagger keyboards I saw looks like this. Unfortunately it does not work for me. My index finger always feels that it is not in the correct position. But one day when I looked at my curled up fingers, I suddenly notice that my index finger is higher than the middle finger. Although I'm not very sure if a higher index column would work or not, I anyway gave it a try, and the result turned out very good.
 
-![YA36](https://imgur.com/vrmpelw)
-![YA36](https://imgur.com/Lj07oUP)
+![YA36](https://i.imgur.com/vrmpelw.jpg)
+![YA36](https://i.imgur.com/Lj07oUP.jpg)
